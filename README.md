@@ -1,5 +1,7 @@
 newSudokuSolver
 
+Insight Coding Challenge
+
 This Sudoku Solver will solve a N by N square. It's default is set to 9 by 9. An
 input file sudokuinput.csv is required to run this file and it must be placed in
 the same directory as sudoku.java. The solution will be outputted to sudokuoutput.csv.
@@ -18,6 +20,6 @@ The CSV input should be in the following format:
 
 The zeros represent the missing values
 <br>
-@author Jason Keung
+@author Jason Keung (jason.s.keung@gmail.com)
 
 ===============
