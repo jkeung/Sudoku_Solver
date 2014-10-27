@@ -8,6 +8,7 @@ the same directory as sudoku.java. The solution will be outputted to sudokuoutpu
 
 The CSV input should be in the following format:
 <br>
+<br>
 0,3,5,2,9,0,8,6,4 <br>
 0,8,2,4,1,0,7,0,3 <br>
 7,6,4,3,8,0,0,9,0 <br>
